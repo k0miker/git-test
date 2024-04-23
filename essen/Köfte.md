@@ -30,4 +30,4 @@
 
 **Tipp:** Wenn Sie die Köfte noch saftiger machen möchten, können Sie auch etwas Joghurt in die Hackfleischmischung geben.
 
-- ---->   <a href="essen.md" target="" style="text-align: center;">Zurück</a>
+-  **[Back](essen.md)**
