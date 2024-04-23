@@ -11,12 +11,16 @@
 
 ## Hip Hop & co
 
-+ [**Beats**] (https://open.spotify.com/playlist/2VdRNtYZycvPwARdKyoTUa?si=8a58b522de5d453f)
++ [**Beats**](https://open.spotify.com/playlist/2VdRNtYZycvPwARdKyoTUa?si=8a58b522de5d453f)
 
-+ [**Hip Hop**] (https://open.spotify.com/playlist/6PO9Ue7KyJatGbdQbR36XZ?si=04da7b7598c741ae)
++ [**Hip Hop**](https://open.spotify.com/playlist/6PO9Ue7KyJatGbdQbR36XZ?si=04da7b7598c741ae)
 
 
 
 ## Nordic
 
-+ [**nordic**] (https://open.spotify.com/playlist/6PO9Ue7KyJatGbdQbR36XZ?si=7467f849884c44bf)
++ [**nordic**](https://open.spotify.com/playlist/6PO9Ue7KyJatGbdQbR36XZ?si=7467f849884c44bf)
+
+## Chillen
+
++ [**CHillen**](https://open.spotify.com/playlist/2rUaFe9F9JbtoIroRBA46c?si=bda4239e41c74721)
