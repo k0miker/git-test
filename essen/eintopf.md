@@ -35,4 +35,5 @@
 
 **Tipp:** Sie können auch andere Gemüsesorten wie Paprika, Kartoffeln oder Spinat hinzufügen, um den Eintopf nach Ihrem Geschmack anzupassen.
 
-- ---->   <a href="essen.md" target="">Zurück</a>
+
+- **[Back](essen.md)**
