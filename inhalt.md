@@ -11,8 +11,6 @@
 
 # Lieblingsmusik
 
-## Elektronische Musik
++ [Lieblings Musik](musik/musik.md)
 
-1. [downtempo/trippy stuff](https://open.spotify.com/playlist/07fYlV9pwdDKZS36AOYZhR?si=ed1847fe9602443d)
-
-2. 
+# Lieblingsessen
