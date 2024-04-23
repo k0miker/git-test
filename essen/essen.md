@@ -6,4 +6,4 @@
 
 3. [Eintopf](eintopf.md)
 
-- ---->   <a href="../inhalt.md" target="" style="text-align: center;">Zurück</a>
+- **<a href="../inhalt.md">Back</a>**
