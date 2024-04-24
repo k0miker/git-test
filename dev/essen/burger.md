@@ -46,4 +46,4 @@
 **Tipp:** Um besonders saftige Burger-Patties zu erhalten, können Sie auch etwas geriebenen Käse oder fein gehackte Pilze in die Hackfleischmischung mischen.
 
 
-- ---->   <a href="essen.md" target="" style="text-align: center;">Zurück</a>
+-  **[Back](essen.md)**
