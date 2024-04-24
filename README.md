@@ -1,3 +1,3 @@
 # README
-eine kleine Übung zu Markdown
+Eine kleine Übung zu Markdown
 [Inhalt](inhalt.md)
