@@ -15,7 +15,7 @@
 - 1/2 TL schwarzer Pfeffer
 - 1/4 Tasse frische Petersilie, fein gehackt
 - Olivenöl zum Braten
-- Petersilie
+
 ## Zubereitung:
 
 1. In einer großen Schüssel das Hackfleisch, die fein gehackte Zwiebel, den gepressten Knoblauch, das Ei, die Semmelbrösel, den Kreuzkümmel, das Paprikapulver, Salz, Pfeffer und die gehackte Petersilie vermengen. Gut durchkneten, bis alle Zutaten gut kombiniert sind.
